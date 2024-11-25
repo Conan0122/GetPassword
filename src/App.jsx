@@ -54,7 +54,7 @@ function App() {
     <>
     <div className='w-full flex justify-center mt-10'>
       <div className='w-full max-w-3xl bg-gray-800 p-5 rounded-xl border-2 border-gray-400'>
-        <h1 className='text-3xl text-center p-5 font-light tracking-widest'>Password Generator</h1>
+        <h1 className='text-3xl text-center p-5 font-light tracking-widest'>GetPassword</h1>
         <div className='flex justify-center pb-5'>
           <hr className='w-[50%] text-white text-center' />
 
